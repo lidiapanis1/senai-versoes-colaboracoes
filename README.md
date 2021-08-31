@@ -8,4 +8,7 @@ git pull
 git push -u origin master
 git status
 
+
 lembrei do comando: git commit
+lembrei do comando: git status
+
